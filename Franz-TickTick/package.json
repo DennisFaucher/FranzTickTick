@@ -1,0 +1,14 @@
+{
+  "id": "ticktick",
+  "name": "TickTick",
+  "version": "1.0.0",
+  "description": "TickTick",
+  "main": "index.js",
+  "author": "Dennis Faucher <dennis@faucher.net>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://ticktick.com/webapp",
+    "hasDirectMessages": false,
+    "hasNotificationSound": true
+  }
+}
